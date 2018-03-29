@@ -11,12 +11,12 @@ Each folder containg .ipynb file. Some of the dataset used were imported from li
 #### 1) Linear Regression
 
 Project description
-E Commerce Data
+##### E Commerce Data
 - Worked on E Commerce data to predict Yearly amount spent by Customer on app or on website
 - Decided which factor affects the amount of money spent by customer, few of the factors are:
 Avg. Session Length, Time on App, Time on Website & Length of Membership
 
-Housing Data
+#####  Housing Data
 - Worked on USA Housing data to predict price of house using various factors such as:
 Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Number of Bedrooms & Area Population 
 
