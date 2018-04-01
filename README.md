@@ -8,7 +8,7 @@ Each folder containg .ipynb file. Some of the dataset used were imported from li
 
 ### Machine Learning Algorithms:
 
-#### 1) [Linear Regression] (https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Regression)
+#### 1) Linear Regression [this](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Regression)
 
 Project description
 ##### E Commerce Data 
