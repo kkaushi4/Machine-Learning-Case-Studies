@@ -15,20 +15,24 @@ Project description
 - Worked on E Commerce data to predict Yearly amount spent by Customer on app or on website
 - Decided which factor affects the amount of money spent by customer, few of the factors are:
 Avg. Session Length, Time on App, Time on Website & Length of Membership
+- Data File: Ecommerce Customers.csv
 
 #####  Housing Data
 - Worked on USA Housing data to predict price of house using various factors such as:
 Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Number of Bedrooms & Area Population 
+- Data File: USA_Housing.csv
 
 #### 2) [Logistic Regression](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Regression)
 
 ##### Titanic Data
--Worked on Titanic data frame to predict survival or non survival of people on titanic
+- Worked on Titanic data frame to predict survival or non survival of people on titanic
 - Used mean to fill missing values
 - Created dummy variables for categorical variables
+- Data File: titanic_train.csv, titanic_test.csv
 
 ##### Advertising Data
 - Worked on Advertising data to predict whether customer clicked on advertisement on not based on data available about various features 
+- Data File: test.csv, train.csv
 
 ### Prerequisites
 - Python 3.0
