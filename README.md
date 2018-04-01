@@ -53,6 +53,13 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 ##### [Blob Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/K_Mean_Clustering/K_Means_Clustering_Blob_Data.ipynb)
 - Used K mean clustering to clusters Blobs into 4 clusters 
 
+#### 5) [K nearest Neighbor Classifier](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/KNN_Classifier)
+
+##### [Classified Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/KNN_Classifier/KNN_Classified_Data.ipynb)
+- Worked on classified data set from kaggle to do K Nearest Neighbor Classification
+- Used StandardScaler() to scale the data
+- Data File: Classified
+
 ### Prerequisites
 - Python 3.0
 - Jupyter Notebook
