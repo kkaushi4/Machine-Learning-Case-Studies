@@ -32,7 +32,7 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 
 ##### [Advertising Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/Regression/Logistic_Regression_Advertising.ipynb)
 - Worked on Advertising data to predict whether customer clicked on advertisement on not based on data available about various features 
-- Data File: test.csv, train.csv
+- Data File: advertising.csv
 
 #### 3) [Decision Trees & Random Forest](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Trees_Random_Forest)
 
@@ -91,6 +91,11 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 ##### [MNIST Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/Tensor_Flow/Tensor_Flow_MNIST_Data.ipynb)
 - Worked on MNIST Data set and predicted the numerical value from images using TensorFlow library in Python 
 - Data Set: MNIST
+
+#### 10) [Ridge & Lasso Regression](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/Regression/Ridge%20And%20Lasso%20Regression.ipynb)
+
+- Worked on Data set and chose best parameter for Ridge and Lasso Regression using cross validation
+- Data Set: test.csv, train.csv
 
 ### Prerequisites
 - Python 3.0
