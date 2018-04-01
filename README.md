@@ -44,6 +44,15 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 - Predicted whether a person has Kyphosis or not using decision tree and random forest classifier based on data provided 
 - Data File: kyphosis.csv
 
+#### 4) [K Means Clustering](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/K_Mean_Clustering)
+
+##### [University Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/K_Mean_Clustering/K_Means_Clustering_University_Data.ipynb)
+- Used K mean clustering to clusters universities as Private or Public based on various features provided
+- Data File: College_Data.csv
+
+##### [Blob Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/K_Mean_Clustering/K_Means_Clustering_Blob_Data.ipynb)
+- Used K mean clustering to clusters Blobs into 4 clusters 
+
 ### Prerequisites
 - Python 3.0
 - Jupyter Notebook
