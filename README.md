@@ -87,7 +87,7 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 ##### [Ham vs Spam](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/NLP/NLP_Spam_Ham.ipynb)
 - Same steps were used as Yelp project but data was used from ('smsspamcollection/SMSSpamCollection')
 
-##### 9) [Tensor Flow: MNIST Data set](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Tensor_Flow)
+#### 9) [Tensor Flow: MNIST Data set](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Tensor_Flow)
 ##### [MNIST Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/Tensor_Flow/Tensor_Flow_MNIST_Data.ipynb)
 - Worked on MNIST Data set and predicted the numerical value from images using TensorFlow library in Python 
 - Data Set: MNIST
