@@ -68,6 +68,12 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 ##### [Iris Flower Data Set](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/SVM/SVM_Iris_Data.ipynb)
 - Worked on Iris data set to predict various species of flower using Support Vector Machine (SVM) and GridSearchCV to predict parameters for C and gamma best for our model
 
+#### 7) [Movie Recommender System](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Recommender_System)
+
+##### [Movie Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/Recommender_System/Recommender_System.ipynb)
+- Worked on Movie rating data from various users to find highly correlated movies to each other (according to ratings provided by different users) 
+- Data File: Movie_Id_Titles, u.data
+
 ### Prerequisites
 - Python 3.0
 - Jupyter Notebook
