@@ -60,6 +60,14 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 - Used StandardScaler() to scale the data
 - Data File: Classified
 
+#### 6) [Support Vector Machine](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/SVM)
+
+##### [Breast Cancer Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/SVM/SVM_Brest_Cancer_Data.ipynb)
+- Worked on Breast cancer data to predict whether a cell is cancer cell or not using Support Vector Machine (SVM) and GridSearchCV to predict parameters for C and gamma best for our model
+
+##### [Iris Flower Data Set](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/SVM/SVM_Iris_Data.ipynb)
+- Worked on Iris data set to predict various species of flower using Support Vector Machine (SVM) and GridSearchCV to predict parameters for C and gamma best for our model
+
 ### Prerequisites
 - Python 3.0
 - Jupyter Notebook
