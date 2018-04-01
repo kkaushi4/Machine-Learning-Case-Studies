@@ -34,6 +34,16 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 - Worked on Advertising data to predict whether customer clicked on advertisement on not based on data available about various features 
 - Data File: test.csv, train.csv
 
+#### 3) [Decision Trees & Random Forest](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Trees_Random_Forest)
+
+##### LendingClub.com data
+- Worked on Lending club data to predict if a borrower pays the money back to investor or not using decision tree and random forest classifier
+- Data File: loan_data.csv
+
+##### Kyphosis Data
+- Predicted whether a person has Kyphosis or not using decision tree and random forest classifier based on data provided 
+- Data File: kyphosis.csv
+
 ### Prerequisites
 - Python 3.0
 - Jupyter Notebook
