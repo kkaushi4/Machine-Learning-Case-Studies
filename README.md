@@ -74,6 +74,19 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 - Worked on Movie rating data from various users to find highly correlated movies to each other (according to ratings provided by different users) 
 - Data File: Movie_Id_Titles, u.data
 
+#### 8) [Natural Language Processing](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/NLP)
+
+##### [Yelp Data Set from Kaggle](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/NLP/NLP_Yelp_Data.ipynb)
+- Worked on Yelp data set to predict stars provided by reviewer using length of the text
+- Created a function to remove the punctuation from the review and used stopwords() to remove stop words such as 'i', 'me', 'my', 'myself' etc.
+- Used CountVectorizer to convert reviews in vectors of different words
+- Using TfidfTransformer created inverse document frequency
+- After that created prediction model using Multinomial Naive Bayes 
+- Data File: yelp.csv
+
+##### [Ham vs Spam](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/NLP/NLP_Spam_Ham.ipynb)
+- Same steps were used as Yelp project but data was used from ('smsspamcollection/SMSSpamCollection')
+
 ### Prerequisites
 - Python 3.0
 - Jupyter Notebook
