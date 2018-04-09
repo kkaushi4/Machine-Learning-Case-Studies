@@ -37,7 +37,7 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 #### 3) [Decision Trees & Random Forest](https://github.com/kkaushi4/Machine-Learning-Case-Studies/tree/master/Trees_Random_Forest)
 
 ##### [LendingClub.com data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/Trees_Random_Forest/Trees_Random_Forest_Lending_Club_Decision.ipynb)
-- Worked on Lending club data to predict if a borrower pays the money back to investor or not using decision tree and random forest classifier
+- Worked on Lending club data to predict if a borrower pays the money back to investor or not, using decision tree and random forest classifier
 - Data File: loan_data.csv
 
 ##### [Kyphosis Data](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/Trees_Random_Forest/Trees_Random_Forest_Kyphosis_Decision.ipynb)
