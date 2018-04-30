@@ -97,6 +97,15 @@ Avg. Area Income, Avg. Area House Age, Avg. Area Number of Rooms, Avg. Area Numb
 - Worked on Data set and chose best parameter for Ridge and Lasso Regression using cross validation
 - Data Set: test.csv, train.csv
 
+#### 11) [Sentiment Analysis On Amazon’s Product](https://github.com/kkaushi4/Machine-Learning-Case-Studies/blob/master/Amazon_Product_Sentiment_Analysis/Amazon_Product_Sentiment_Analysis.ipynb)
+
+- The project is based on providing any user, using Amazon (any Ecommerce site), identifying and decision making within initial 10 seconds on whether to buy a product or not based on user reviews given on the website. 
+
+- Mainly, using Natural Language Processing and Sentiment Analysis in identifying whether a review by a user is positive or not. Algorithm helps any user who goes to any product page, extract all the reviews given and perform sentiment analysis on all the reviews and give a numeric prediction like out of say 10000 reviews 3000 are positive, 1500 are neutral and 5500 are negative.
+
+- This will help the user in identifying whether to go for that product within 5 to 10 seconds instead of spending multiple minutes reading description, ratings, reviews etc. 
+
+
 ### Prerequisites
 - Python 3.0
 - Jupyter Notebook
